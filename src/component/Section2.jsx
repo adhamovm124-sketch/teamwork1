@@ -4,6 +4,7 @@ function Section2() {
         <section className="section2">
             <div className="section2_div">
                 <h1>Azizbek sobirjonov</h1>
+                <h2>salmol</h2>
             </div>
 
 
