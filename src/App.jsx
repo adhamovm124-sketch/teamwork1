@@ -1,13 +1,17 @@
 import Section2 from './component/Section2'
 import './App.css'
 import Section1 from './component/Section1'
+import Header from './component/Header'
+import Footer from './component/Footer'
 
 function App() {
 
   return (
     <>
-      <h1>salmontillabola</h1>
+      <Header/>
+      <Section1/>
       <Section2/>
+      <Footer/>
     </>
   )
 }

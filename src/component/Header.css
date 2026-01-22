@@ -1,0 +1,21 @@
+header{
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+}   
+nav{
+    display: flex;
+    align-items: center;
+    gap: 200px;
+}
+nav ul{
+    display: flex;
+}
+nav input{
+    width: 492px;
+    height: 44px;
+    border-radius: 5px;
+    padding: 10px;
+    margin-left: -100px;
+}

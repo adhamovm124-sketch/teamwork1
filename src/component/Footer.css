@@ -1,0 +1,27 @@
+.con{
+    display: flex;
+    gap: 100px;
+}
+footer{
+    display: flex;
+    justify-content: space-around;
+    gap: 50px;
+}
+.ss h1{
+    font-size: 20px;
+    font-weight: 600;
+    color: #1A202C;
+    margin-bottom: 24px;
+}
+.ss p{
+    font-size: 16px;
+    font-weight: 500;
+    color: #13131399;
+    margin-bottom: 18px;
+}
+.aa p{
+    font-size: 16px;
+    color: #13131399;
+    font-weight: 500;
+    margin-top: 18px;
+}

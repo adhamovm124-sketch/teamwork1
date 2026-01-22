@@ -5,7 +5,6 @@ function Section1(){
 
     return(
         <>
-        <h1>salomattt</h1>
         </>
     )
 }
