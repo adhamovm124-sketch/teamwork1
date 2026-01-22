@@ -1,0 +1,143 @@
+
+.salom{
+    width: 550px;
+height: 320px;
+border-radius: 10px;
+background-color: #54A6FF;
+padding: 15px 15px;
+}
+.salom h1{
+font-weight: 600;
+font-size: 32px;
+line-height: 150%;
+letter-spacing: -3%;
+color: white;
+
+}
+.salom p{
+
+font-weight: 500;
+font-style: Medium;
+font-size: 16px;
+color: white;
+line-height: 150%;
+letter-spacing: -2%;
+
+
+}
+.salom button{
+    width: 100px;
+    height: 40px;
+    background-color: #3563E9;
+    color: white;
+    border: none;
+    margin-top: 10px;
+    border-radius: 4px;
+}
+.salom img{
+    margin-left: 100px;
+}
+
+
+.salom1{
+    width: 550px;
+height: 320px;
+border-radius: 10px;
+background-color: #3563E9;
+padding: 15px 15px;
+}
+.salom1 h1{
+font-weight: 600;
+font-size: 32px;
+line-height: 150%;
+letter-spacing: -3%;
+color: white;
+
+}
+.salom1 p{
+
+font-weight: 500;
+font-style: Medium;
+font-size: 16px;
+color: white;
+line-height: 150%;
+letter-spacing: -2%;
+
+
+}
+.salom1 button{
+    width: 100px;
+    height: 40px;
+    background-color: #54A6FF;
+    color: white;
+    border: none;
+    margin-top: 10px;
+    border-radius: 4px;
+}
+.salom1 img{
+    margin-left: 100px;
+}
+.salom2{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    margin-top: 50px;
+    margin-bottom: 40px;
+}
+
+.salom3{
+    display: flex;
+    gap: 20px;
+    width: 430px;
+    padding: 10px;
+height: 100px;
+border-radius: 10px;
+background-color: white;
+   
+}
+.salom4 {
+    margin-top: 21px;
+    border-left:2px solid #3a414966 ;
+    width: 130px;
+    height: 40px;
+    
+}
+.salom5{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+.salom5 h3{
+font-weight: 700;
+font-style: Bold;
+font-size: 16px;
+color: black;
+line-height: 150%;
+letter-spacing: -2%;
+
+}
+.salom5 p{
+font-weight: 500;
+font-style: Medium;
+font-size: 12px;
+color:#3a414966 ;
+line-height: 100%;
+letter-spacing: -2%;
+
+
+}
+
+
+.salom5 h2{
+font-weight: 700;
+font-style: Bold;
+font-size: 16px;
+color: black;
+line-height: 150%;
+letter-spacing: -2%;
+margin-left: 8px;
+
+}
+.salom6{
+    background-color: #F6F7F9;
+}
