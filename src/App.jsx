@@ -5,7 +5,7 @@ function App() {
 
   return (
     <>
-      <h1>salmontillabola</h1>
+      {/* <h1>salmontillabola</h1> */}
       <Section2/>
     </>
   )
